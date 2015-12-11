@@ -1,3 +1,13 @@
+新北市替代役資訊服務團隊首頁
+=========
+
+Changelog
+---
+* Github organization pages uses master branch to deploy, thus development changed to `dev` branch.
+
+
+------
+
 The New Hackfoldr
 ============
 
